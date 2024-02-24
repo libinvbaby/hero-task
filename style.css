@@ -71,12 +71,7 @@ font-size: 24px;
     padding: 10px;
     border-radius:10px
 }
-.first-sec{
-    width:50%
-}
-.second-sec{
-    width: 50%;
-}
+
 .hero-feature {
     font-family: 'poppins',sans-serif;
 
@@ -103,7 +98,6 @@ font-size: 24px;
     background-color: #60d3d9;
     height: 150px;
     position: absolute;
-    /* bottom: 130px; */
     left: 150px;
     border-radius: 50px;
 
@@ -112,9 +106,6 @@ font-size: 24px;
 .second-img img{
     height: 150px;
     border-radius: 50px;
-
-
-
 }
 .thrid-img{
     background-color: #f4b840;
@@ -123,15 +114,11 @@ font-size: 24px;
     position: absolute;
     left: 320px;
     top: 80px;
-
-
 }
 .thrid-img img{
     background-color: #f4b840;
     height: 300px;
     border-radius: 50px;
-
-
 }
 .fourth-img{
     background-color: #ff7e29;
@@ -140,13 +127,10 @@ font-size: 24px;
     left: 160px;
     top: 160px;
     border-radius: 50px;
-
 }
 .fourth-img img{
     border-radius: 50px;
     height: 300px;
-
-
 }
 .fifth-img{
     background-color: #219653;
@@ -154,12 +138,10 @@ font-size: 24px;
     border-radius: 50px;
     position: absolute;
     top:310px
-
 }
 .fifth-img img{
     height: 150px;
     border-radius: 50px;
-
 }
 
 .circle-one{
@@ -177,7 +159,6 @@ font-size: 24px;
     border:1px solid #51525b;
     border-radius: 50%;
     position: absolute;
-    /* top: -200px; */
     left: 50px;
 }
 
@@ -197,7 +178,7 @@ font-size: 24px;
         flex-direction: column;
         justify-content:start;
     }
-    br{
+    .feature-br{
         display: none;
     }
     .hero-title{
